@@ -3,7 +3,7 @@ html {
     font-size: 62.5%; /*1REM = 10 px*/
 }
 *{
-    outline: 1px solid red;
+    /*outline: 1px solid red;*/
 }
 *, *:before, *:after {
    box-sizing: inherit;
